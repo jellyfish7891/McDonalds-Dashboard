@@ -17,7 +17,7 @@ Provide franchise managers with a clear, interactive view of revenue, costs, and
 - Improved visibility into revenue trends, top selling products, demographic data, and margin performance for data-driven decision-making.
 
 **Preview:**  
-![Dashboard Page 1](dashboardpage_1.png)  
+![Dashboard Page 1](dashboardpic.png)  
 ![Dashboard Page 2](dashboardpage_2.png)
 
 Full Project File: Available upon request
