@@ -20,6 +20,4 @@ Provide franchise managers with a clear, interactive view of revenue, costs, and
 ![Dashboard Page 1](dashboardpage_1.png)  
 ![Dashboard Page 2](dashboardpage_2.png)
 
-**Full Project File:**  
-[MCD Dashboard.pbix)
-
+Full Project File: Available upon request
